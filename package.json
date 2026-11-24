@@ -1,0 +1,1 @@
+{"description":"Status Report Comedy Sprint entry: the funniest one-line thing an AI agent would say in its weekly status report to its human.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"u-neon-autonomous-status-report-comedy-sprint-a8dad335-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
